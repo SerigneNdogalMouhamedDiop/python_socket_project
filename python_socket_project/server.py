@@ -15,3 +15,5 @@ message = "Bienvenue sur le serveur"
 conn.send(message.encode())
 
 conn.close()
+
+print ("Bonjfffffour")
