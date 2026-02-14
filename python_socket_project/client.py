@@ -10,3 +10,6 @@ message = s.recv(1024).decode()
 print("Message du serveur :", message)
 
 s.close()
+
+print("Test Git commit")
+print("Bonjour")
