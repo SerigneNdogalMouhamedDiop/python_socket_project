@@ -13,4 +13,4 @@ s.close()
 
 print("Test Git commit")
 print("Dimanchqqe client")
-print("COMBAT FRANC")
+print("COMBAT dimanche  FRANC")
